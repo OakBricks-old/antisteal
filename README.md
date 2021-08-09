@@ -1,6 +1,6 @@
 ![img.png](logo.png)
 
-<center>
+<div align="center">
 
 ### Prevent users from downloading your mods from reposting sites or malicious providers.
 
@@ -22,4 +22,4 @@ Powered by [the reposting site list from StopModReposts](https://github.com/Stop
 
 Not currently available yet/requires further development - check back later!
 
-</center>
+</div>

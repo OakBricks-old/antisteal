@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "antisteal",
+  "version": "${version}",
+  "name": "Antisteal",
+  "description": "Prevent your mods being stolen onto 9minecraft and other reposting sites! Forces the user to download from curseforge, modrinth or a specified site.",
+  "authors": [
+    "cal6541"
+  ],
+  "contact": {
+    "repo": "https://github.com/i-am-cal/antisteal"
+  },
+  "license": "MPL-2.0",
+  "icon": "assets/antisteal/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "i.am.cal.antisteal.client.AntistealClient"
+    ],
+    "main": [
+      "i.am.cal.antisteal.Antisteal"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.11.6",
+    "fabric": "*",
+    "minecraft": "1.17.1"
+  }
+}

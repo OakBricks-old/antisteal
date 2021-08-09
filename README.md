@@ -1,6 +1,6 @@
-![img.png](logo.png)
-
 <div align="center">
+
+![img.png](logo.png)
 
 ### Prevent users from downloading your mods from reposting sites or malicious providers.
 
